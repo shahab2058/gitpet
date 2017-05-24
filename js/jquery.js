@@ -1,0 +1,1 @@
+alert('Alert the jquery javacrsipt no purpose message.');
